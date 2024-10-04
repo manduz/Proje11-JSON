@@ -1,0 +1,10 @@
+C:\EmekWebRepo\C#\Proje11-JSON\Json_Ornegi\bin\Debug\Json_Ornegi.exe.config
+C:\EmekWebRepo\C#\Proje11-JSON\Json_Ornegi\bin\Debug\Json_Ornegi.exe
+C:\EmekWebRepo\C#\Proje11-JSON\Json_Ornegi\bin\Debug\Json_Ornegi.pdb
+C:\EmekWebRepo\C#\Proje11-JSON\Json_Ornegi\obj\Debug\Json_Ornegi.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\Proje11-JSON\Json_Ornegi\obj\Debug\Json_Ornegi.Form1.resources
+C:\EmekWebRepo\C#\Proje11-JSON\Json_Ornegi\obj\Debug\Json_Ornegi.Properties.Resources.resources
+C:\EmekWebRepo\C#\Proje11-JSON\Json_Ornegi\obj\Debug\Json_Ornegi.csproj.GenerateResource.cache
+C:\EmekWebRepo\C#\Proje11-JSON\Json_Ornegi\obj\Debug\Json_Ornegi.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\Proje11-JSON\Json_Ornegi\obj\Debug\Json_Ornegi.exe
+C:\EmekWebRepo\C#\Proje11-JSON\Json_Ornegi\obj\Debug\Json_Ornegi.pdb
